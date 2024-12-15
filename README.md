@@ -1,7 +1,9 @@
-👋 Hi there!
-I'm a 3rd-year Information Technology student at CBIT, passionate about coding and innovation. 💻
-🔹 Skilled in Python, Java, and full-stack web development.
+👋 Hi there!  
+I'm a 3rd-year Information Technology student at CBIT, passionate about coding and innovation. 💻  
+
+🔹 Skilled in Python, Java, and full-stack web development.  
 🔹 Exploring the fascinating world of AI/ML with hands-on projects in machine learning and beyond.
+
 
 LinkedIn: [https://linkedin.com/in/akshithareddydoma/](https://linkedin.com/in/akshithareddydoma/)  
 Email: [akshithareddydoma7@gmail.com](mailto:akshithareddydoma7@gmail.com)
