@@ -17,6 +17,3 @@ Email: [akshithareddydoma7@gmail.com](mailto:akshithareddydoma7@gmail.com)
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domaakshithareddy&layout=compact&langs_count=10&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Domaakshithareddy&theme=radical&hide_border=true)
-
