@@ -21,4 +21,4 @@ Email: [akshithareddydoma7@gmail.com](mailto:akshithareddydoma7@gmail.com)
 
 ### 📊 Languages Used
 
-![Top Langs](https://Domaakshithareddy.vercel.app/api/top-langs/?username=Domaakshithareddy&layout=compact&langs_count=10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domaakshithareddy&layout=compact&langs_count=10&theme=radical)
