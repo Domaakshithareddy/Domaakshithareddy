@@ -6,7 +6,6 @@ I'm a 4th-year Information Technology student at CBIT, passionate about coding a
 
 
 LinkedIn: [https://linkedin.com/in/akshithareddydoma/](https://linkedin.com/in/akshithareddydoma/)  
-Email: [akshithareddydoma7@gmail.com](mailto:akshithareddydoma7@gmail.com)
 
 
 
