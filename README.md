@@ -34,7 +34,10 @@ LinkedIn: [https://linkedin.com/in/akshithareddydoma/](https://linkedin.com/in/a
 </p>
 
 
-📊 GitHub Stats:
+### 📊 GitHub Stats
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domaakshithareddy&layout=compact&langs_count=10&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domaakshithareddy&layout=compact&langs_count=10&theme=radical" alt="Top Langs"/>
+</p>
+
